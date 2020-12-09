@@ -1,8 +1,8 @@
 caption: Macros
 created: 20200902070921819
-modified: 20201208132334495
+modified: 20201209132330326
 title: $:/plugins/rimir/tabletree/macros
-tocp.tabletree-plugin-parent.ref: #:/wiki/plugins/rimir/tabletree/macros
+tocp.tabletree-plugin-parent.ref: #:/p/tabletree/#:/macros
 type: text/vnd.tiddlywiki
 
 \define statePrefix() $:/state/rimir/table-tree/$(qualify)$
