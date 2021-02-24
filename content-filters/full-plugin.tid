@@ -1,0 +1,9 @@
+caption: ContentFilter: Full Plugin
+created: 20210224144901159
+modified: 20210224154020019
+tags: rimir:content-filter
+title: $:/plugins/rimir/tabletree/content-filters/full-plugin
+tocp.tabletree-plugin-parent.ref: #:/p/tabletree/#:/content-filters
+type: text/vnd.tiddlywiki
+
+[prefix[$:/plugins/rimir/tabletree]]
